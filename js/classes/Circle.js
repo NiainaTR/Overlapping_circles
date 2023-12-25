@@ -10,12 +10,8 @@ class Circle
         this.#color = color;
     }
 
-
-    getCenter(){
-       return this.#center; 
-    }
-
-
+    
+    
     setRadius(radius){
        this.#radius = radius;
     }
